@@ -19,7 +19,7 @@ export const HeroCard = ({
 
   return (
     <>
-      <div className="col-12 col-sm-6 col-lg-4 mb-4">
+      <div className="col-12 col-sm-6 col-lg-4 mb-4 animate__animated animate__fadeIn">
         <div className="card">
             <div className="row no-gutters">
                 <div className="col-4">
